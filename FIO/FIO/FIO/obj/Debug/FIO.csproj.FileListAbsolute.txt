@@ -1,0 +1,7 @@
+D:\gitHub\FIO\FIO\FIO\bin\Debug\FIO.dll
+D:\gitHub\FIO\FIO\FIO\bin\Debug\FIO.pdb
+D:\gitHub\FIO\FIO\FIO\obj\Debug\FIO.dll
+D:\gitHub\FIO\FIO\FIO\obj\Debug\FIO.pdb
+D:\gitHub\FIO\FIO\FIO\bin\Debug\FIO.dll.CodeAnalysisLog.xml
+D:\gitHub\FIO\FIO\FIO\bin\Debug\FIO.dll.lastcodeanalysissucceeded
+D:\gitHub\FIO\FIO\FIO\obj\Debug\FIO.csprojResolveAssemblyReference.cache
